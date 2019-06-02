@@ -17,7 +17,6 @@
 		724E1AFA22A3849500B42D4C /* Window_ShopperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 724E1AF922A3849500B42D4C /* Window_ShopperTests.swift */; };
 		724E1B0322A384E300B42D4C /* Wage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 724E1B0222A384E300B42D4C /* Wage.swift */; };
 		724E1B0422A3867E00B42D4C /* Wage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 724E1B0222A384E300B42D4C /* Wage.swift */; };
-		7283FC7522A3AFEE002B335F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7283FC7422A3AFEE002B335F /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,7 +43,6 @@
 		724E1AF922A3849500B42D4C /* Window_ShopperTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Window_ShopperTests.swift; sourceTree = "<group>"; };
 		724E1AFB22A3849500B42D4C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		724E1B0222A384E300B42D4C /* Wage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wage.swift; sourceTree = "<group>"; };
-		7283FC7422A3AFEE002B335F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,7 +100,6 @@
 			isa = PBXGroup;
 			children = (
 				7244533E22A23D260013A4EE /* MainVC.swift */,
-				7283FC7422A3AFEE002B335F /* ViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -234,7 +231,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7283FC7522A3AFEE002B335F /* ViewController.swift in Sources */,
 				7244533F22A23D260013A4EE /* MainVC.swift in Sources */,
 				7244533D22A23D260013A4EE /* AppDelegate.swift in Sources */,
 				724E1B0322A384E300B42D4C /* Wage.swift in Sources */,
